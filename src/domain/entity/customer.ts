@@ -81,5 +81,5 @@ export default class Customer {
     
     set address(address: Address) {
         this._address = address;
-    }
+    }    
 }
